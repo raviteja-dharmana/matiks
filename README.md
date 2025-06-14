@@ -37,6 +37,13 @@ The goal is to uncover actionable insights to support user growth, retention str
 
 ---
 
+## 📂 How to View the Dashboard
+
+1. Download the `.pbix` file from the **reposiory**
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+
+---
+
 ## 🛠 Tech Stack
 
 - **Data Processing**: Python (Pandas, NumPy)
